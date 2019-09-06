@@ -49,7 +49,7 @@ class Header extends Component {
                                             <a className="nav-link" href="contact.html">Contact</a>
                                         </li>
                                         <li className="d-none d-lg-block">
-                                            <a className="btn_1" href="#">Get a Quote</a>
+                                            <a className="btn_1" href="#get-a-quote">Get a Quote</a>
                                         </li>
                                     </ul>
                                 </div>

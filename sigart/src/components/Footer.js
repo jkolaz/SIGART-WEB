@@ -42,10 +42,10 @@ class Footer extends Component {
                                     </div>
                                 </form>
                                 <div className="social_icon">
-                                    <a href="#"> <i className="ti-facebook"></i> </a>
-                                    <a href="#"> <i className="ti-twitter-alt"></i> </a>
-                                    <a href="#"> <i className="ti-instagram"></i> </a>
-                                    <a href="#"> <i className="ti-skype"></i> </a>
+                                    <a href="#faceboook"> <i className="ti-facebook"></i> </a>
+                                    <a href="#twitter"> <i className="ti-twitter-alt"></i> </a>
+                                    <a href="#instagran"> <i className="ti-instagram"></i> </a>
+                                    <a href="#skype"> <i className="ti-skype"></i> </a>
                                 </div>
                             </div>
                         </div>
@@ -70,7 +70,8 @@ class Footer extends Component {
                                     <div className="col-lg-12">
                                         <p className="footer-text m-0">
                                             Copyright &copy; { new Date().getFullYear() }  All rights reserved | This template is made with
-                                            <i className="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                                            <i className="ti-heart" aria-hidden="true"></i> by
+                                            <a href="https://colorlib.com" rel="noopener noreferrer" target="_blank">Colorlib</a>
                                         </p>
                                     </div>
                                 </div>
